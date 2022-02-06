@@ -2,7 +2,7 @@
 
 
 Bem vindo ao meu repositório pessoal, aqui está toda minha trilha nessa jornada, onde eu posso olhar para trás na linha do tempo dos commits e ver minha evolução.
-Desenvolvedor Fullstack, presando o lado do backend e vislumbrado com as interfaces do frontend, me concidero uma pessoa focada, analística e com certeza autodidáta. 
+Desenvolvedor Fullstack, prezando o lado do backend e vislumbrado com as interfaces do frontend, considero-me focado, analítica e com certeza autodidata. 
 
 - 🔥 Desenvolvedor web
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
