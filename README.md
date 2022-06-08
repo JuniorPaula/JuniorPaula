@@ -6,7 +6,7 @@ Desenvolvedor Fullstack, prezando o lado do backend e vislumbrado com as interfa
 
 - 🔥 Desenvolvedor web
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
-- 📫 How to reach me: <slucivaldo509@gmail.com>
+- 📫 How to reach me: <luke.junnior@icloud.com>
 - ⚡ Fun fact: 千里の道も一歩から -> Senri no michi mo ippo kara
 
 ## 🛠 &nbsp;Tech Stack
