@@ -21,7 +21,11 @@ Desenvolvedor Fullstack, prezando o lado do backend e vislumbrado com as interfa
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-05122A?style=flat&logo=mysql)&nbsp;
+![Postgres](https://img.shields.io/badge/postgres-05122A?style=flat&logo=postgresql)&nbsp;
 ![Typescript](https://img.shields.io/badge/-typescript-05122A?style=flat&logo=typescript)&nbsp;
+![Go](https://img.shields.io/badge/go-05122A?style=flat&logo=go)&nbsp;
+![RabbitMQ](https://img.shields.io/badge/Rabbitmq-05122A?style=flat&logo=rabbitmq)&nbsp;
+![Redis](https://img.shields.io/badge/redis-05122A?style=flat&logo=redis)&nbsp;
 
 <br><br>
 
