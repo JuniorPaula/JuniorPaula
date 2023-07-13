@@ -5,7 +5,7 @@ Bem vindo ao meu repositório pessoal, aqui está toda minha trilha nessa jornad
 Desenvolvedor Fullstack, prezando o lado do backend e vislumbrado com as interfaces do frontend, considero-me focado, analítica e com certeza autodidata. 
 
 - 🔥 Desenvolvedor web
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
+- 💬 Ask me about **NodeJS and Golang**
 - 📫 How to reach me: <luke.junnior@icloud.com>
 - ⚡ Fun fact: 千里の道も一歩から -> Senri no michi mo ippo kara
 
