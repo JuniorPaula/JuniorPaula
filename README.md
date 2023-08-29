@@ -1,10 +1,9 @@
 ### Hi 👋, I'm Junior Paula
 
 
-Bem vindo ao meu repositório pessoal, aqui está toda minha trilha nessa jornada, onde eu posso olhar para trás na linha do tempo dos commits e ver minha evolução.
-Desenvolvedor Fullstack, considero-me focado, analítica e com certeza autodidata. 
+Welcome to my personal repository, here is my entire trail on this journey, where I can look back on the commit timeline and see my progress. Fullstack developer, I consider myself focused, analytical and certainly self-taught.
 
-- 🔥 Desenvolvedor web
+- 🔥 Web Developer
 - 💬 Ask me about **NodeJS and Golang**
 - 📫 How to reach me: <luke.junnior@icloud.com>
 - ⚡ Fun fact: 千里の道も一歩から -> Senri no michi mo ippo kara
