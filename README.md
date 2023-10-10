@@ -27,6 +27,10 @@ Welcome to my personal repository, here is my entire trail on this journey, wher
 ![Redis](https://img.shields.io/badge/redis-05122A?style=flat&logo=redis)&nbsp;
 
 <br><br>
+## ⚙️ &nbsp;Wakatime Analytics
+<p align="left">
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@juniorP/89a751b5-cf7f-424a-b6a1-aa8425661298.png" /></a>
+</p>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
