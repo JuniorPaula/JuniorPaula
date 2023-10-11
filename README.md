@@ -29,7 +29,7 @@ Welcome to my personal repository, here is my entire trail on this journey, wher
 <br><br>
 ## ⚙️ &nbsp;Wakatime Analytics
 <p align="left">
-  <a href="https://wakatime.com"><img width="530em" src="https://wakatime.com/share/@juniorP/89a751b5-cf7f-424a-b6a1-aa8425661298.png" /></a>
+  <a href="https://wakatime.com/@juniorP"><img width="530em" src="https://wakatime.com/share/@juniorP/89a751b5-cf7f-424a-b6a1-aa8425661298.png" /></a>
 </p>
 
 ## ⚙️ &nbsp;GitHub Analytics
