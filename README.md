@@ -26,11 +26,7 @@ Welcome to my personal repository, here is my entire trail on this journey, wher
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-05122A?style=flat&logo=rabbitmq)&nbsp;
 ![Redis](https://img.shields.io/badge/redis-05122A?style=flat&logo=redis)&nbsp;
 
-<br><br>
-## ⚙️ &nbsp;Wakatime Analytics
-<p align="left">
-  <a href="https://wakatime.com"><img width="530em" src="https://wakatime.com/share/@juniorP/f0dc666d-9840-4ad7-bd84-90dd249101bb.png" /></a>
-</p>
+<br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
