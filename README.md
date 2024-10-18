@@ -3,8 +3,6 @@
 
 Welcome to my personal repository, here is my entire trail on this journey, where I can look back on the commit timeline and see my progress. Fullstack developer, I consider myself focused, analytical and certainly self-taught.
 
-- 🔥 Web Developer
-- 💬 Ask me about **NodeJS and Golang**
 - 📫 How to reach me: <luke.junnior@icloud.com>
 - ⚡ Fun fact: 千里の道も一歩から -> Senri no michi mo ippo kara
 
