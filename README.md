@@ -1,27 +1,37 @@
-### Hi 👋, I'm Junior Paula
+## Olá, eu sou o Junior! 👋
 
+### Desenvolvedor Web | Node.js & Golang
 
-Welcome to my personal repository, here is my entire trail on this journey, where I can look back on the commit timeline and see my progress. Fullstack developer, I consider myself focused, analytical and certainly self-taught.
+---
 
-- 📫 How to reach me: <luke.junnior@icloud.com>
-- ⚡ Fun fact: A tecnologia move o mundo, mas é a curiosidade que move o desenvolvedor.
+### Sobre mim
 
-## 🛠 &nbsp;Tech Stack
+Sou desenvolvedor com mais de 5 anos de experiência, focado em **Node.js** e **Golang**. Busco constantemente o **aprendizado contínuo**, explorando novas tecnologias e aprimorando minhas habilidades em **algoritmos**, **estruturas de dados** e **linguagens de médio e baixo nível**. Graduado em **Análise e Desenvolvimento de Sistemas**, atualmente estou cursando **Ciência da Computação** para aprofundar ainda mais meu conhecimento técnico e teórico.
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-05122A?style=flat&logo=mysql)&nbsp;
-![Postgres](https://img.shields.io/badge/postgres-05122A?style=flat&logo=postgresql)&nbsp;
-![Typescript](https://img.shields.io/badge/-typescript-05122A?style=flat&logo=typescript)&nbsp;
-![Go](https://img.shields.io/badge/go-05122A?style=flat&logo=go)&nbsp;
-![RabbitMQ](https://img.shields.io/badge/Rabbitmq-05122A?style=flat&logo=rabbitmq)&nbsp;
-![Redis](https://img.shields.io/badge/redis-05122A?style=flat&logo=redis)&nbsp;
+Tenho experiência com **integração de APIs**, **WebSockets** e **processamento de dados em tempo real**, além de estar explorando **C**, **C++** e **Raylib** para desenvolvimento de sistemas mais próximos ao hardware.
 
-<br>
+---
+
+### 🔧 Tecnologias:
+
+- **Back-end**: Golang, Node.js (Express, Fastfy, Fiber, Chi)
+- **Front-end**: Vue.js, Next.js, React
+- **Bancos de Dados**: PostgreSQL, MySQL, MongoDB, Redis
+- **DevOps**: Docker, Caddy, Supervisor
+- **Cloud**: AWS (S3, Lambda), Linode
+- **Outros**: WebSockets, RabbitMQ, Prometheus, Grafana, JWT, Knex.js, GORM, PrismaORM
+
+---
+
+### 🚀 O que estou estudando:
+
+- **C e C++**: Foco em algoritmos, estruturas de dados e sistemas de baixo nível.
+- **Engenharia de algotimos**: Para problemas de análise combinatória.
+
+---
+
+### 🚨 Contato:
+
+- Email: [luke.junnior@icloud.com](mailto\:luke.junnior@icloud.com)
+
+💡 "A tecnologia move o mundo, mas é a curiosidade que move o desenvolvedor."
