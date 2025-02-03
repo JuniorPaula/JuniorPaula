@@ -4,7 +4,7 @@
 Welcome to my personal repository, here is my entire trail on this journey, where I can look back on the commit timeline and see my progress. Fullstack developer, I consider myself focused, analytical and certainly self-taught.
 
 - 📫 How to reach me: <luke.junnior@icloud.com>
-- ⚡ Fun fact: 千里の道も一歩から -> Senri no michi mo ippo kara
+- ⚡ Fun fact: A tecnologia move o mundo, mas é a curiosidade que move o desenvolvedor.
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -25,10 +25,3 @@ Welcome to my personal repository, here is my entire trail on this journey, wher
 ![Redis](https://img.shields.io/badge/redis-05122A?style=flat&logo=redis)&nbsp;
 
 <br>
-
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=JuniorPaula&show_icons=true&theme=vision-friendly-dark" alt="JuniorPaula's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorPaula&layout=compact&theme=vision-friendly-dark" alt="JuniorPaula's most languages"/>
-</p>
